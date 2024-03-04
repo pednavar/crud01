@@ -3,13 +3,18 @@
     padding: 0px;
 }
 
+/*oculto*/
+#actualizar{
+    display: none;
+}
+
 body {
     background-color: rgb(0, 0, 128);
     color: white;
     font-family: "Courier New", Courier, monospace;
 }
 
-.contenedor {
+.cuerpo {
     width: 90%;
     max-width: 1000px;
     margin: 20px auto;
